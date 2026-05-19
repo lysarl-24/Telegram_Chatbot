@@ -4,7 +4,7 @@ from telegram.ext import ContextTypes
 
 QUESTION_ANSWERS = {
     "what is your name": "I am your Telegram assistant bot.",
-    "how are you": "I am doing great and ready to help you.",
+    "how are you": "I am doing great and ready to help you haha.",
     "who made you": "I was created by my developer.",
 }
 
